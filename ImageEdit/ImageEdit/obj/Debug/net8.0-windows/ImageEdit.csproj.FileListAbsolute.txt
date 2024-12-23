@@ -1,0 +1,17 @@
+D:\C# dersleri\ImageEdit\ImageEdit\bin\Debug\net8.0-windows\ImageEdit.exe
+D:\C# dersleri\ImageEdit\ImageEdit\bin\Debug\net8.0-windows\ImageEdit.deps.json
+D:\C# dersleri\ImageEdit\ImageEdit\bin\Debug\net8.0-windows\ImageEdit.runtimeconfig.json
+D:\C# dersleri\ImageEdit\ImageEdit\bin\Debug\net8.0-windows\ImageEdit.dll
+D:\C# dersleri\ImageEdit\ImageEdit\bin\Debug\net8.0-windows\ImageEdit.pdb
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.Form1.resources
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.csproj.GenerateResource.cache
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.AssemblyInfoInputs.cache
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.AssemblyInfo.cs
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.csproj.CoreCompileInputs.cache
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.dll
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\refint\ImageEdit.dll
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.pdb
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.genruntimeconfig.cache
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ref\ImageEdit.dll
+D:\C# dersleri\ImageEdit\ImageEdit\obj\Debug\net8.0-windows\ImageEdit.Properties.Resources.resources
