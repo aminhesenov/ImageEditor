@@ -1,0 +1,17 @@
+D:\GİTHUB\GraphicClass\GraphicClass\bin\Debug\net8.0-windows\GraphicClass.exe
+D:\GİTHUB\GraphicClass\GraphicClass\bin\Debug\net8.0-windows\GraphicClass.deps.json
+D:\GİTHUB\GraphicClass\GraphicClass\bin\Debug\net8.0-windows\GraphicClass.runtimeconfig.json
+D:\GİTHUB\GraphicClass\GraphicClass\bin\Debug\net8.0-windows\GraphicClass.dll
+D:\GİTHUB\GraphicClass\GraphicClass\bin\Debug\net8.0-windows\GraphicClass.pdb
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.Form1.resources
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.csproj.GenerateResource.cache
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.AssemblyInfoInputs.cache
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.AssemblyInfo.cs
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.csproj.CoreCompileInputs.cache
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.dll
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\refint\GraphicClass.dll
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.pdb
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.genruntimeconfig.cache
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\ref\GraphicClass.dll
+D:\GİTHUB\GraphicClass\GraphicClass\obj\Debug\net8.0-windows\GraphicClass.Properties.Resources.resources
